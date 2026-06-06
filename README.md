@@ -55,6 +55,5 @@ This project helped in understanding real-world data analysis using Excel and im
 
 ## 👤 Author
 - Name: Palak Singh
-- GitHub: https://github.com/PalakSingh24!
-- GitHub: [your link]# Netflix-Data-Analysis
+- GitHub: [https://github.com/PalakSingh-glitch]# Netflix-Data-Analysis
 Excel Netflix data analysis project
