@@ -37,7 +37,7 @@ This project analyzes Netflix movies and TV shows dataset to understand content 
 ### Genres Analysis
 ![Genres](Screenshot 2026-06-06 143416.png)
 ### Year-wise Trend
-![Trend](
+![Trend](Screenshot 2026-06-06 143355.png)
 
 ---
 
