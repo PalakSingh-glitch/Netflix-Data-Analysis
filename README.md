@@ -31,13 +31,13 @@ This project analyzes Netflix movies and TV shows dataset to understand content 
 
 ## 📊 Visuals
 ### Movies vs TV Shows
-![Pie Chart](Screenshot 2026-06-06 143313.png)
+![Pie Chart](Screenshot-2026-06-06-143313.png)
 ### Rating Analysis
-![Ratings](Screenshot 2026-06-06 143339.png)
+![Ratings](Screenshot-2026-06-06-143339.png)
 ### Genres Analysis
-![Genres](Screenshot 2026-06-06 143416.png)
+![Genres](Screenshot-2026-06-06-143416.png)
 ### Year-wise Trend
-![Trend](Screenshot 2026-06-06 143355.png)
+![Trend](Screenshot-2026-06-06-143355.png)
 
 ---
 
