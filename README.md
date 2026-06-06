@@ -30,10 +30,8 @@ This project analyzes Netflix movies and TV shows dataset to understand content 
 ---
 
 ## 📊 Visuals
-(Add screenshots of charts here)
-
-Example:
-![Dashboard](dashboard.png)
+### Movies vs TV Shows
+![Pie Chart](dashboard.png)
 
 ---
 
